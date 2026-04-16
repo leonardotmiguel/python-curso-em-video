@@ -1,2 +1,2 @@
-import emoji
-print(emoji.emojize('Olá, mundo :sunglasses:'))
+frase = 'Curso em Vídeo Python'
+print(frase.split())
